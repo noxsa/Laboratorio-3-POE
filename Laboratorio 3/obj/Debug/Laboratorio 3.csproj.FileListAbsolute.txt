@@ -1,0 +1,5 @@
+C:\Users\visra\OneDrive\Escritorio\Laboratorio 3\obj\Debug\Laboratorio 3.csproj.AssemblyReference.cache
+C:\Users\visra\OneDrive\Escritorio\Laboratorio 3\obj\Debug\laboratorio3.Forms.frmLogin.resources
+C:\Users\visra\OneDrive\Escritorio\Laboratorio 3\obj\Debug\Laboratorio_3.Properties.Resources.resources
+C:\Users\visra\OneDrive\Escritorio\Laboratorio 3\obj\Debug\Laboratorio 3.csproj.GenerateResource.cache
+C:\Users\visra\OneDrive\Escritorio\Laboratorio 3\obj\Debug\Laboratorio 3.csproj.CoreCompileInputs.cache
